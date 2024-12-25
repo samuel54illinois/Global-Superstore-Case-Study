@@ -108,18 +108,17 @@ The interactive Tableau dashboard is available on [Tableau Public](#). The dashb
 ---
 
 ## File Structure
-Global-Superstore-Case-Study
-|---data
-    |---superstore_eda_cleaned.csv
-    |---superstore.csv
-|---notebooks
-    |---01_Data_Understanding_and_Cleaning.ipynb
-    |---02_Exploratory_Data_Analysis.ipynb
-    |---cleaned_superstore.csv
-    |---superstore_eda_cleaned.csv
-    |---superstore.csv
-|---gitignore
-|---LICENSE
-|---README.md
+
+Global-Superstore-Case-Study/
+├── data/
+│   ├── superstore_eda_cleaned.csv   # Cleaned dataset
+│   ├── superstore.csv               # Raw dataset
+├── notebooks/
+│   ├── 01_Data_Understanding_and_Cleaning.ipynb   # Notebook for data cleaning
+│   ├── 02_Exploratory_Data_Analysis.ipynb         # Notebook for exploratory analysis
+├── .gitignore                        # Git ignore file
+├── LICENSE                           # License file
+├── README.md                         # Project documentation
+
 
 
