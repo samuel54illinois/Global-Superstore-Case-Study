@@ -120,5 +120,23 @@ Global-Superstore-Case-Study/
 ├── LICENSE                           # License file
 ├── README.md                         # Project documentation
 
+## Installation
 
+To set up and run this project on your local machine, follow these steps:
+
+1. **Clone the repository**:
+   ```bash
+   git clone https://github.com/your-username/Global-Superstore-Case-Study.git
+   cd Global-Superstore-Case-Study
+2. **Open Jupyter notebooks**
+    ```bash
+    jupyter notebook
+3. **Access Tableau Dashboard**
+    https://public.tableau.com/app/profile/enqi.wu5193/viz/SuperstoreSalesAnalysis_17351509091510/GlobalSaleDashboard
+
+## Usage
+1. **Data Cleaning and Understanding**
+    Open the 01_Data_Understanding_and_Cleaning.ipynb notebook to explore the raw dataset and observe the cleaning steps applied to prepare the data for analysis.
+2. **Exploratory Data Analysis**
+    Open the 02_Exploratory_Data_Analysis.ipynb notebook to observe the visualizations and insights derived from the cleaned dataset.
 
