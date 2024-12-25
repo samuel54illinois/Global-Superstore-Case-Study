@@ -108,7 +108,7 @@ The interactive Tableau dashboard is available on [Tableau Public](#). The dashb
 ---
 
 ## File Structure
-Global-Superstore-Case-Study/
+Global-Superstore-Case-Study
 |---data
     |---superstore_eda_cleaned.csv
     |---superstore.csv
